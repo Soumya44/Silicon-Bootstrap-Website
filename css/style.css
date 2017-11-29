@@ -79,3 +79,10 @@ footer {
     color: white;
     text-align: right;
 }
+
+img.logo {
+    height: 50px;
+}
+a.nav-link {
+    font-size: 1.1rem;
+}
