@@ -19,4 +19,5 @@
 <br>
 Thanks,<br>
 &copy; Soumya Ranjan Behera<br>
-E-mail: soumyaranjanb02@gmail.com
+E-mail: <a href="mailto:soumyaranjanb02@gmail.com">soumyaranjanb02@gmail.com</a><br>
+LinkedIn: <a href="https://linkedin.com/in/soumya044">Soumya Ranjan Behera
